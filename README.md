@@ -20,3 +20,6 @@
 <p>Por fim, mas não menos importante, adicione uma tabela dimensão de datas. Para compensar a falta de dados de datas do modelo relacional, suponha que você tem acesso aos dados e crie os campos necessários para modelagem.</p>
 <br>
 <p>Ex: data de oferta das disciplinas, data de oferta dos cursos, entre outros. O formato, ou melhor, a granularidade, não está fixada. Podem ser utilizados diferentes formatos que correspondem a diferentes níveis de granularidade.</p>
+<br>
+<p>Imagem de referência</p>
+![Descrição do Desafio - Criando um Star Schema para Cenários de Vendas com P docx (30 01 2025 16_36)](https://github.com/user-attachments/assets/3f27e7b9-0c06-4269-a733-a3ddf9ad86a3)
